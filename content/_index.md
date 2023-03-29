@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2023-03-29
 type: landing
 
 sections:
@@ -16,16 +16,16 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
+        - name: C++
+          description: 2%
           icon: r-project
           icon_pack: fab
-        - name: Statistics
-          description: 100%
+        - name: Maths
+          description: 12%
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
+        - name: Chess
+          description: 31.5%
           icon: camera-retro
           icon_pack: fas
   - block: experience
@@ -40,27 +40,29 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
+        - title: First year student
           company: University X
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Russia
+          date_start: '2023-09-01'
+          date_end: ''
+          description: Learn history, Calculus, Linear Algebra, Discrete Mathematics, Logics
+        - title: Senior Manager, Senior Accountant, Sweeper, Track Cleaner, Assistant Cook, Assistant Mechanic
+          company: Carting Fryazino
+          company_url: ''
+          company_logo: org-gc
+          location: Russia
+          date_start: '2021-06-21'
+          date_end: '2021-08-24'
+          description: |2-
+              Responsibilities include:
+
+              * Bookkeeping
+              * Sweeping
+              * Maintaining carts
+              * Assisting Senior Cooks
+              * Track cleaning
     design:
       columns: '2'
   - block: accomplishments
