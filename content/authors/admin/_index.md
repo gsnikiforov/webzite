@@ -26,8 +26,8 @@ bio: My interests include reading books, listening to something and ...
 
 # Interests to show in About widget
 interests:
-  - Calculus
-  - Chess
+  - you
+  - they
   - Drawing
 
 # Education to show in About widget
@@ -45,15 +45,30 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: I have no Twitter
-    display:
-      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: book
+    icon-pack: fas
+    link: https://elibrary.ru
+  - icon: graduation-cap
+    icon-pack: fas
+    link: https://scholar.google.com/
+  - icon: square
+    icon-pack: fas
+    link: https://orcid.org/
+  - icon: u
+    icon-pack: fas
+    link: https://www.mendeley.com/
+  - icon: skull
+    icon-pack: fas
+    link: https://www.researchgate.net/
+  - icon: a
+    icon-pack: fas
+    link: https://www.academia.edu/
+  - icon: gavel
+    icon-pack: fas
+    link: https://arxiv.org/
   - icon: github
     icon_pack: fab
     link: https://github.com/ivmulin
@@ -72,5 +87,5 @@ email: ''
 highlight_name: true
 ---
 
-Ivan Mulin is a struggling first course student at Russian University of People's Friendship. His interests are mainly focused on chess, reading social fiction books and listening to something
+Ivan Mulin is a struggling first course student at Russian University of People's Friendship. His interests are mainly focused on you, reading social fiction books and listening to something
 {style="text-align: justify; border-top: 1px solid white; border-bottom: 1px solid white; padding: 2em 0; margin-top: 1em"}
