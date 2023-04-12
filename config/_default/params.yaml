@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
-  font_size: L
+  theme_day: ocean
+  theme_night: dark
+  font: cyberpunk
+  font_size: m
 
 # SEO
 
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is superiorly licensed under {license}'
+    notice: '© {year} Me. This work is perfectly licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
